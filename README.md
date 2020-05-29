@@ -23,11 +23,12 @@ The following packages are necessary to run the cells in ip_W4.ipynb:
 
     pandas
     numpy
+    datetime
     
 
 ### Prerequisites
 1. A browser to access the google collabs.
-2. Google collaboratory which can be found in the given [link](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwius97P4tjpAhVwxoUKHU9jDQQQFjAAegQIBhAC&url=https%3A%2F%2Fcolab.research.google.com%2F&usg=AOvVaw3A5aPK2kLFzKOzb6sOckVw)
+2. Google collaboratory which can be accessed through the [link](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwius97P4tjpAhVwxoUKHU9jDQQQFjAAegQIBhAC&url=https%3A%2F%2Fcolab.research.google.com%2F&usg=AOvVaw3A5aPK2kLFzKOzb6sOckVw)
 
 
 ### Installing
